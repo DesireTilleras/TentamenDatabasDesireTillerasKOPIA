@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HemtentaDesireDatabaserPragueParking", "HemtentaDesireDatabaserPragueParking\HemtentaDesireDatabaserPragueParking.csproj", "{4937E1EE-1D79-4324-A609-C80B8C2EDB15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{C8EEDBB5-99F7-4CAD-9037-9385F82CD9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "BackEnd\BackEnd.csproj", "{C8EEDBB5-99F7-4CAD-9037-9385F82CD9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetsarGitHub", "TetsarGitHub\TetsarGitHub.csproj", "{99FED385-999B-4A1C-BD0A-1364E7B187F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C8EEDBB5-99F7-4CAD-9037-9385F82CD9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8EEDBB5-99F7-4CAD-9037-9385F82CD9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8EEDBB5-99F7-4CAD-9037-9385F82CD9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FED385-999B-4A1C-BD0A-1364E7B187F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FED385-999B-4A1C-BD0A-1364E7B187F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FED385-999B-4A1C-BD0A-1364E7B187F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FED385-999B-4A1C-BD0A-1364E7B187F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
